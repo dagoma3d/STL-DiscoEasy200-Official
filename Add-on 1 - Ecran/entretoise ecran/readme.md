@@ -1,0 +1,27 @@
+# Infos
+Nom de la pièce : entretoise ecran.STL
+
+Parent : Add-on 1 - Ecran
+
+Quantité de pièce : 2
+
+remplissage : 17%
+
+support : NON
+
+matière : PLA Octofiber
+
+couleur : orange OU gris anthracite
+
+couplage avec une autre pièce (dépendance) : NON
+
+statut d’invalidation des précédent (destruction du stock) : NON
+
+
+# Changelog
+All notable changes to this object will be documented in this file.
+
+
+## [1.0] - 2018-07-04
+- création du dossier
+- suppression du numero de version dans le nom du fichier
