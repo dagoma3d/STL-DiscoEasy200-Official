@@ -1,13 +1,13 @@
 # Infos
-Nom de la pièce : Tete - verrou.stl
+Nom de la pièce : Boitier ecran - dessous.stl
 
-Parent : Add-on 3 - Pack Expert
+Parent : Add-on 1 - Ecran
 
 Quantité de pièce : 1
 
-remplissage : 33%
+remplissage : 17%
 
-support : NON
+support : non
 
 matière : PLA Octofiber
 
@@ -30,7 +30,7 @@ Orientation autorisée de la piece : Quelconque
     225   |   315
          270
 	   
-	  
+	   
 # Changelog
 All notable changes to this object will be documented in this file.
 
