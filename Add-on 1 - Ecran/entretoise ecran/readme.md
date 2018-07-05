@@ -32,6 +32,7 @@ Orientation autorisée de la piece : Quelconque
          270
 ```
 
+
 # Changelog
 All notable changes to this object will be documented in this file.
 

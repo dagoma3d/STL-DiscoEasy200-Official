@@ -18,6 +18,7 @@ couplage avec une autre pièce (dépendance) : OUI - Fixation haute droite
 statut d’invalidation des précédent (destruction du stock) : NON
 
 Orientation autorisée de la piece : 0 / 90 / 180 / 270
+```
           90
     135   |   45
        \  |  /
@@ -29,6 +30,7 @@ Orientation autorisée de la piece : 0 / 90 / 180 / 270
        /  |  \   
     225   |   315
          270
+```
 	   
 	   
 # Changelog
