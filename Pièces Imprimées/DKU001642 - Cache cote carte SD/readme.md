@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001642 - Cache cote carte SD.STL
+Numero Piece : DKU001642
+Version Piece : V1.0
+Denomination : Cache cote carte SD
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 

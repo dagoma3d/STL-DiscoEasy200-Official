@@ -1,11 +1,14 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001654 - Tete - Corps.STL
+Numero Piece : DKU001654
+Version Piece : V2.7
+Denomination : Tete - Corps
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 
-remplissage : 17%
+remplissage : 33%
 
 support : NON
 

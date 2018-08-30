@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001642 - Cache cote carte SD.STL
+Numero Piece : DKU001642
+Version Piece : V1.1
+Denomination : Cache cote carte SD
 
 Parent : Add-on 1 - Ecran
 

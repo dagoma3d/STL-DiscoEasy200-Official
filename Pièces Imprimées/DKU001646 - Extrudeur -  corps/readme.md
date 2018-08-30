@@ -1,11 +1,14 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001646 - Extrudeur -  corps.STL
+Numero Piece : DKU001646
+Version Piece : V D1.8
+Denomination : Extrudeur -  corps
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 
-remplissage : 17%
+remplissage : 33%
 
 support : NON
 

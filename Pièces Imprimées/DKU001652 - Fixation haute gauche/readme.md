@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001652 - Fixation haute gauche.STL
+Numero Piece : DKU001652
+Version Piece : V1.0
+Denomination : Fixation haute gauche
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 

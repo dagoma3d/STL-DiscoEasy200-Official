@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001656 - Boitier ecran - dessous.stl
+Numero Piece : DKU001656
+Version Piece : V1.1
+Denomination : Boitier ecran - dessous
 
 Parent : Add-on 1 - Ecran
 

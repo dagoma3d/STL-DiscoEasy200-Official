@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001648 - Face arriere.STL
+Numero Piece : DKU001648
+Version Piece : V1.0
+Denomination : Face arriere
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 

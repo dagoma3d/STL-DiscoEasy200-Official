@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001651 - Fixation haute droite.STL
+Numero Piece : DKU001651
+Version Piece : V1.0
+Denomination : Fixation haute droite
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 

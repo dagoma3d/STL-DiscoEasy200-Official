@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001664 - Tete - Corps.stl
+Numero Piece : DKU001664
+Version Piece : V3.2
+Denomination : Tete - Corps
 
 Parent : Add-on 3 - Pack Expert
 

@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001665 - Tete - verrou.stl
+Numero Piece : DKU001665
+Version Piece : V4.1
+Denomination : Tete - verrou
 
 Parent : Add-on 3 - Pack Expert
 

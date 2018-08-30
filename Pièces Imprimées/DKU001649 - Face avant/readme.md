@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001649 - Face avant.STL
+Numero Piece : DKU001649
+Version Piece : V1.0
+Denomination : Face avant
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 

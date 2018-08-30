@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001661 - Extrudeur PLUS - Corps.stl
+Numero Piece : DKU001661
+Version Piece : V1.8
+Denomination : Extrudeur PLUS - Corps
 
 Parent : Add-on 2 - Extrudeur PLUS
 

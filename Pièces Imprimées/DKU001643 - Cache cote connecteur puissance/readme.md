@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001643 - Cache cote connecteur puissance.STL
+Numero Piece : DKU001643
+Version Piece : V1.0
+Denomination : Cache cote connecteur puissance
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 

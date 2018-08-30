@@ -1,17 +1,20 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU000946 - palette de montage roulements.STL
+Numero Piece : DKU001701
+Version Piece : V1.0
+Denomination : Support bobine (Fiberlogy)
 
-Parent : Accessoires
+Parent : DiscoEasy200 caisson de protection
 
 Quantité de pièce : 1
 
-remplissage : 17%
+remplissage : 33%
 
-support : NON
+support : non
 
-matière : PLA Octofiber
+matière : PLA Octofifer
 
-couleur : orange OU gris anthracite
+couleur : orange
 
 couplage avec une autre pièce (dépendance) : NON
 
@@ -31,8 +34,8 @@ Orientation autorisée de la piece : Quelconque
     225   |   315
          270
 ```
-
-
+	   
+	   
 # Changelog
 All notable changes to this object will be documented in this file.
 

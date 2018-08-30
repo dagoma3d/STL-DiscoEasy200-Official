@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001662 - Axe X droit.stl
+Numero Piece : DKU001662
+Version Piece : V3.1
+Denomination : Axe X droit
 
 Parent : Add-on 3 - Pack Expert
 

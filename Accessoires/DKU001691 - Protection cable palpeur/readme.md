@@ -1,20 +1,17 @@
-# Version 1.0
 # Infos
-Numero Piece : DKU001657
-Version Piece : V1.1
-Denomination : Boitier ecran - dessus
+Nom de la pièce : DKU001691 - Protection cable palpeur.STL
 
-Parent : Add-on 1 - Ecran
+Parent : DiscoEasy200 Accessoires
 
 Quantité de pièce : 1
 
 remplissage : 17%
 
-support : non
+support : NON
 
 matière : PLA Octofiber
 
-couleur : orange
+couleur : orange OU gris anthracite
 
 couplage avec une autre pièce (dépendance) : NON
 
@@ -35,7 +32,7 @@ Orientation autorisée de la piece : Quelconque
          270
 ```
 
-	   
+
 # Changelog
 All notable changes to this object will be documented in this file.
 

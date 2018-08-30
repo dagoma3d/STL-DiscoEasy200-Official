@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001640 - Axe X droit.STL
+Numero Piece : DKU001640
+Version Piece : V1.0
+Denomination : Axe X droit
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 

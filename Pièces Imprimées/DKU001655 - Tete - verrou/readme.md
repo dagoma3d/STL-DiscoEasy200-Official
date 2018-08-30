@@ -1,11 +1,14 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001655 - Tete - verrou.STL
+Numero Piece : DKU001655
+Version Piece : V1.0
+Denomination : Tete - verrou
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 
-remplissage : 17%
+remplissage : 33%
 
 support : NON
 

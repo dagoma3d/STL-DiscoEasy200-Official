@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001660 - Cache cote avec bouton.stl
+Numero Piece : DKU001660
+Version Piece : V1.2
+Denomination : Cache cote avec bouton
 
 Parent : Add-on 2 - Extrudeur PLUS
 

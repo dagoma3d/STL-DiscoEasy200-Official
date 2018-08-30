@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001348 - Extrudeur PLUS - Bras.stl
+Numero Piece : DKU001348
+Version Piece : V1.7
+Denomination : Extrudeur PLUS - Bras
 
 Parent : Add-on 2 - Extrudeur PLUS
 

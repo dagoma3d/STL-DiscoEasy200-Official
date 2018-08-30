@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001348 - Extrudeur -  bras.STL
+Numero Piece : DKU001348
+Version Piece : V1.7
+Denomination : Extrudeur -  bras
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 1
 

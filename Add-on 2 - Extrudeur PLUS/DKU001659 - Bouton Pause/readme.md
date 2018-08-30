@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001659 - Bouton Pause.stl
+Numero Piece : DKU001659
+Version Piece : V1.2
+Denomination : Bouton Pause SD
 
 Parent : Add-on 2 - Extrudeur PLUS
 

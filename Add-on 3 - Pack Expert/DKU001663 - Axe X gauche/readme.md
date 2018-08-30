@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001663 - Axe X gauche.stl
+Numero Piece : DKU001663
+Version Piece : V3.1
+Denomination : Axe X gauche
 
 Parent : Add-on 3 - Pack Expert
 

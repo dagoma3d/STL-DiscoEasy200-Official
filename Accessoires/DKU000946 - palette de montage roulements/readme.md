@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU000946 - palette de montage roulements.STL
+Numero Piece : DKU000946
+Version Piece : V1.0
+Denomination : Palette de montage roulement
 
-Parent : Accessoires
+Parent : DiscoEasy200 Accessoires
 
 Quantité de pièce : 1
 
@@ -11,7 +14,7 @@ support : NON
 
 matière : PLA Octofiber
 
-couleur : orange OU gris anthracite
+couleur : Orange
 
 couplage avec une autre pièce (dépendance) : NON
 
@@ -31,12 +34,12 @@ Orientation autorisée de la piece : Quelconque
     225   |   315
          270
 ```
-
-
+	   
+	   
 # Changelog
 All notable changes to this object will be documented in this file.
 
 
-## [1.0] - 2018-07-04
+## [1.0] - 2018-07-05
 - création du dossier
 - suppression du numero de version dans le nom du fichier

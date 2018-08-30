@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001658 - entretoise ecran.STL
+Numero Piece : DKU001658
+Version Piece : V1.1
+Denomination : entretoise ecran SD
 
 Parent : Add-on 1 - Ecran
 

@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001650 - Fixation coté.STL
+Numero Piece : DKU001650
+Version Piece : V1.0
+Denomination : Fixation coté
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 2
 

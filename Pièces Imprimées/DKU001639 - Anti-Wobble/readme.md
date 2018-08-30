@@ -1,7 +1,10 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001639 - Anti-Wobble.STL
+Numero Piece : DKU001639
+Version Piece : V1.0
+Denomination : Anti-Wobble
 
-Parent : Pieces Imprimees
+Parent : DiscoEasy200 Pieces Imprimees
 
 Quantité de pièce : 2
 

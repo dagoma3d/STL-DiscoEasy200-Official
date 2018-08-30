@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001666 - Capot detecteur filament.stl
+Numero Piece : DKU001666
+Version Piece : V1.3
+Denomination : Capot detecteur filament
 
 Parent : Add-on 2 - Extrudeur PLUS
 

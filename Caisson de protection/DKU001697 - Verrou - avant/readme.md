@@ -1,10 +1,10 @@
 # Version 1.0
 # Infos
-Numero Piece : DKU001657
-Version Piece : V1.1
-Denomination : Boitier ecran - dessus
+Numero Piece : DKU001697
+Version Piece : V2.0
+Denomination : Verrou - avant
 
-Parent : Add-on 1 - Ecran
+Parent : DiscoEasy200 caisson de protection
 
 Quantité de pièce : 1
 
@@ -12,7 +12,7 @@ remplissage : 17%
 
 support : non
 
-matière : PLA Octofiber
+matière : PLA Octofifer
 
 couleur : orange
 
@@ -34,7 +34,7 @@ Orientation autorisée de la piece : Quelconque
     225   |   315
          270
 ```
-
+	   
 	   
 # Changelog
 All notable changes to this object will be documented in this file.
