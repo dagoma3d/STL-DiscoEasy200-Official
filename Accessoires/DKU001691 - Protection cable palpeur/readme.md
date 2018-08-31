@@ -1,5 +1,8 @@
+# Version 1.0
 # Infos
-Nom de la pièce : DKU001691 - Protection cable palpeur.STL
+Numero Piece : DKU001691
+Version Piece : V1.0
+Denomination : Protection cable palpeur
 
 Parent : DiscoEasy200 Accessoires
 
