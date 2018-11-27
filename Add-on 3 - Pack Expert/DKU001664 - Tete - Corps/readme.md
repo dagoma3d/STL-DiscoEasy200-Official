@@ -1,7 +1,7 @@
 # Version 1.0
 # Infos
 Numero Piece : DKU001664
-Version Piece : V3.2
+Version Piece : V3.5
 Denomination : Tete - Corps
 
 Parent : Add-on 3 - Pack Expert
@@ -12,7 +12,7 @@ remplissage : 33%
 
 support : NON
 
-matière : PLA Octofiber
+matière : PLA
 
 couleur : orange
 

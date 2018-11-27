@@ -1,7 +1,7 @@
 # Version 1.0
 # Infos
 Numero Piece : DKU001659
-Version Piece : V1.2
+Version Piece : V2.0
 Denomination : Bouton Pause SD
 
 Parent : Add-on 2 - Extrudeur PLUS
@@ -12,7 +12,7 @@ remplissage : 33%
 
 support : non
 
-matière : PLA Octofiber
+matière : PLA
 
 couleur : orange
 

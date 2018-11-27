@@ -4,7 +4,7 @@ Numero Piece : DKU001348
 Version Piece : V1.7
 Denomination : Extrudeur PLUS - Bras
 
-Parent : Add-on 2 - Extrudeur PLUS
+Parent : Add-on 2 - Extrudeur+
 
 Quantité de pièce : 1
 
@@ -12,7 +12,7 @@ remplissage : 50%
 
 support : non
 
-matière : PETG Sunlu
+matière : PETG
 
 couleur : orange
 

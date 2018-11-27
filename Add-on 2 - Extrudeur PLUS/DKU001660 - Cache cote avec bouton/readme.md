@@ -12,7 +12,7 @@ remplissage : 33%
 
 support : non
 
-matière : PLA Octofiber
+matière : PLA
 
 couleur : gris anthracite
 
