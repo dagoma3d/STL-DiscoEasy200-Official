@@ -1,7 +1,7 @@
-# Version 1.0
+# Version 2.0
 # Infos
 Numero Piece : DKU001664
-Version Piece : V3.5
+Version Piece : V3.6
 Denomination : Tete - Corps
 
 Parent : Add-on 3 - Pack Expert
@@ -14,7 +14,7 @@ support : NON
 
 matière : PLA
 
-couleur : orange
+couleur : Orange / Gris anthracite
 
 couplage avec une autre pièce (dépendance) : NON
 
@@ -43,3 +43,6 @@ All notable changes to this object will be documented in this file.
 ## [1.0] - 2018-07-04
 - création du dossier
 - suppression du numero de version dans le nom du fichier
+
+## [2.0] - 2018-12-20
+- fusion des fichiers avec tete DiscoUltimate

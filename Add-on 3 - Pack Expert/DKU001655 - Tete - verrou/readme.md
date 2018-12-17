@@ -1,7 +1,7 @@
-# Version 1.0
+# Version 2.0
 # Infos
 Numero Piece : DKU001655
-Version Piece : V4.1
+Version Piece : V4.3
 Denomination : Tete - verrou
 
 Parent : Add-on 3 - Pack Expert
@@ -14,7 +14,7 @@ support : NON
 
 matière : PLA
 
-couleur : Orange
+couleur : Orange / Gris anthracite
 
 couplage avec une autre pièce (dépendance) : NON
 
@@ -42,3 +42,6 @@ All notable changes to this object will be documented in this file.
 ## [1.0] - 2018-07-05
 - création du dossier
 - suppression du numero de version dans le nom du fichier
+
+## [2.0] - 2018-12-20
+- fusion des fichiers avec tete DiscoUltimate
