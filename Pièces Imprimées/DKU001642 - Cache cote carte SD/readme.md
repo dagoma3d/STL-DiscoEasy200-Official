@@ -1,7 +1,7 @@
-# Version 1.0
+# Version 1.1
 # Infos
 Numero Piece : DKU001642
-Version Piece : V1.0
+Version Piece : V1.1
 Denomination : Cache cote carte SD
 
 Parent : DiscoEasy200 Pieces Imprimees
@@ -43,3 +43,7 @@ All notable changes to this object will be documented in this file.
 ## [1.0] - 2018-07-05
 - création du dossier
 - suppression du numero de version dans le nom du fichier
+
+
+## [1.1] - 2018-09-06
+- modification de la forme tenant le lecteur SD, accepte les PCB plus large/etroit

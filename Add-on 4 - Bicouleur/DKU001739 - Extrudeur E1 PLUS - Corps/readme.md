@@ -1,7 +1,7 @@
 # Version 1.0
 # Infos
 Numero Piece : DKU001739
-Version Piece : V2.0
+Version Piece : V2.7
 Denomination : Extrudeur E1 PLUS - Corps
 
 Parent : Add-on 4 - Bi-couleur
@@ -42,3 +42,6 @@ All notable changes to this object will be documented in this file.
 
 ## [1.0] - 2018-10-16
 - création du dossier
+
+## [2.0] - 2019-02-27
+- changement de la forme autour du Detectfil
