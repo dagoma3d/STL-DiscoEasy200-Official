@@ -1,7 +1,7 @@
-# Version 1.0
+# Version 1.1
 # Infos
 Numero Piece : DKU001661
-Version Piece : V2.0
+Version Piece : V2.7
 Denomination : Extrudeur PLUS - Corps
 
 Parent : Add-on 4 - Bi-couleur
