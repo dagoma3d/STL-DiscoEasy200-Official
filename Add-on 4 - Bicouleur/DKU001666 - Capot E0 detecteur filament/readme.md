@@ -1,7 +1,7 @@
-# Version 1.0
+# Version 1.1
 # Infos
 Numero Piece : DKU001666
-Version Piece : V1.3
+Version Piece : V2.2
 Denomination : Capot detecteur filament
 
 Parent : Add-on 4 - Bi-couleur
